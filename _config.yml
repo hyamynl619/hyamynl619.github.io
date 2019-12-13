@@ -5,6 +5,8 @@ title: Lambda Example Portfolio
 
 # Short description of your site
 description: This is why I'm good at Data Science
+gems:
+- jekyll-avatar
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
