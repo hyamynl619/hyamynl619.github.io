@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What's there to know?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Just call me Amy, born and raised in Connecticut since 1992. I was working in the banking industry for about 6 years and realized that
+it's time for a change. Being a Data Scientist was a recent dream of mine after coming across a kid's book that teaches you how to generate a pygame, "Code this Game!" by: Meg Ray, and I've been obsessed ever since. After seeing the hardcore ads of Lambda School, I've decided to apply and after many stressful hours, while crying, I completed the precourse assignments. Now here I am, a Lambda DS student, still crying and figuring out this path I chose. 
+Oh right, one of my qualities is being overly dramatic with a hint of severe perseverance syndrome. 
