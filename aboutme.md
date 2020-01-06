@@ -11,4 +11,4 @@ it's time for a change. Being a Data Scientist was a recent dream of mine after 
 **Oh right, one of my qualities is being overly dramatic with a hint of severe perseverance syndrome.** 
 
 
-![Image](https://github.com/hyamynl619/hyamynl619.github.io/blob/master/img/download%20(1).png)
+![Image](https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/download%20(1).png)
