@@ -35,8 +35,8 @@ The report disclosed that there were a lot of ***irregular migrations*** where m
 
 
 
-
-SOURCES:
+<sub><sup>SOURCES:
 https://www.kaggle.com/snocco/missing-migrants-project
 https://www.un.org/development/desa/en/news/population/international-migrant-stock-2019.html
 https://missingmigrants.iom.int/methodology
+</sup></sub>
