@@ -12,6 +12,6 @@ it's time for a change. Being a Data Scientist was a recent dream of mine after 
 
 
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/download%20(1).png">
+  <img src="https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/download%20(1).png">
 </p>
 
