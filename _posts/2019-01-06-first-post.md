@@ -21,7 +21,7 @@ Below is the reported migrants found deceased during migration from 2014 to 2018
 Now look at the reported missing migrants and see that the report only shows the minimum numbers being reported on a yearly basis. These numbers were only obtained through accidents where migrants involved were able to be interviewed for official records. 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/v2.png">
+  <img src="https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/ne.png">
 </p>
 
 # Why Are The Numbers So Low?
