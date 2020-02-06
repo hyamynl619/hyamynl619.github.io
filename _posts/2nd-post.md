@@ -13,7 +13,7 @@ Google's play store and used its features to get my predictions.
 As you can see here, I split the Category column to show what category has the most app in Google's Play store.
 
 <p align="center">
-  https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/genre1.png
+  <img src=https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/genre1.png>
 </p>
 
 The Tools and Entertainment genre are the most popular at the moment. Now, I want to see how these
