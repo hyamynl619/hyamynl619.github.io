@@ -20,7 +20,7 @@ The Tools and Entertainment genre are the most popular at the moment. Now, I wan
 apps are rated. 
 
 <p align="center">
- https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/rating%20bar.png
+ <img src=https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/rating%20bar.png>
 </p>
 
 Even though the number of genre popularity is very different, their ratings are all very close to each other. Are these ratings affecting 
@@ -31,18 +31,18 @@ I used Installs as my main target to do my predictions on the most popular categ
 I fit my first model in a LogisticRegression and received an accuracy score of 61%. 
 
 <p align="center">
- https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/modelscore.png
+ <img src=https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/modelscore.png>
 </p>
 
 My predictions is really low so I decided to fit it again using RandomForestClassifier and that gave me a train score of 99%, but my
 validation score was only 34%.
 
 <p align="center">
-https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/randomscore.png
+<img src=https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/randomscore.png>
 </p>
 
 <p align="center">
-https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/valscore.png
+<img src=https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/valscore.png>
 </p>
 
 Finally I decided to use XGBClassifier to try and boost my pipeline to give me a better accuracy score. 
