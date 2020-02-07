@@ -27,10 +27,10 @@ Even though the number of genre popularity is very different, their ratings are 
 the number of installs these apps have? I decided to only focus on the genres that have a rating of 4.0 or higher since ratings of an app usually affects the decicion making of the consumer. 
 
 I used Installs as my main target to do my predictions on the most popular category to be installed.
-I fit my first model in a LogisticRegression and received an accuracy score of 74%. 
+I fit my first model in a LogisticRegression and received an accuracy score of 70%. 
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/modelscore2.png">
+ <img src="https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/model%202.png">
 </p>
 
 My predictions is really low so I decided to fit it again using RandomForestClassifier and that gave me a train score of 99%, but my
