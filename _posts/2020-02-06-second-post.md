@@ -20,7 +20,7 @@ The Tools and Entertainment genre are the most popular at the moment. Now, I wan
 apps are rated. 
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/rating%20bar.png">
+ <img src="https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/genre2.png">
 </p>
 
 Even though the number of genre popularity is very different, their ratings are all very close to each other. Are these ratings affecting 
