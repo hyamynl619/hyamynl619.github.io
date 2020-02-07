@@ -3,7 +3,6 @@ layout: post
 title: Do They Have An App For That?
 ---
 
-
 How many applications is currently installed in your phone right now? With technology today, applications are becoming more populard because
 of its convenience and easy accessibility. There are applications available to the everyone with its diversed Genre, so you are not limited 
 to any options. This gave me the idea of using Predictive Modeling to figure out what can possibly be the next popular application. What
@@ -67,6 +66,10 @@ Usually I would look at ratings & reviews before deciding if the app is worth be
 I looked at feature importances and it showed that the Size of the app was the main factore. Which it made sense because depending on the devices, memory space is usually not available equally among each other. 
 
 
+
+
+
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/c9d.jpg">
+<img src="https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/123.jpg">
 </p>
