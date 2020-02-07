@@ -28,21 +28,22 @@ the number of installs these apps have? I decided to only focus on the genres th
 usually affects the decicion making of the consumer. 
 
 I used Installs as my main target to do my predictions on the most popular category to be installed.
-I fit my first model in a LogisticRegression and received an accuracy score of 65%. 
+I fit my first model in a LogisticRegression and received an accuracy score of 74%. 
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/modelscore2.png">
 </p>
 
 My predictions is really low so I decided to fit it again using RandomForestClassifier and that gave me a train score of 99%, but my
-validation score was only 34%.
+validation score was only 37%.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/randomscore.png">
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/valscore.png">
+<img src="https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/valscore2.png">
 </p>
 
 Finally I decided to use XGBClassifier to try and boost my pipeline to give me a better accuracy score. 
+
