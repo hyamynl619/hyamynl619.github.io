@@ -3,10 +3,10 @@ layout: post
 title: Do They Have An App For That?
 ---
 
-How many applications is currently installed in your phone right now? With technology today, applications are becoming more populard because
-of its convenience and easy accessibility. There are applications available to the everyone with its diversed Genre, so you are not limited 
+How many applications is currently installed in your phone right now? With technology today, applications are becoming more popular because
+of its convenience and easy accessibility. There are applications available to everyone with its diversed Genre, so you are not limited 
 to any options. This gave me the idea of using Predictive Modeling to figure out what can possibly be the next popular application. What
-affects the consumer's decision to install the app even if its not free. I pulled a data from Kaggle.com with all of the data from the 
+effects the consumer's decision to install the app even if its not free. I pulled a data from Kaggle.com with all of the data from the 
 Google's play store and used its features to get my predictions. 
 
 As you can see here, I split the Category column to show what category has the most app in Google's Play store.
