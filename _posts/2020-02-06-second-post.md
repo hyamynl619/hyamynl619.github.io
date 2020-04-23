@@ -63,7 +63,7 @@ Usually I would look at ratings & reviews before deciding if the app is worth be
 <img src="https://raw.githubusercontent.com/hyamynl619/hyamynl619.github.io/master/img/InR.png">
 </p>
 
-I looked at feature importances and it showed that the Size of the app was the main factore. Which it made sense because depending on the devices, memory space is usually not available equally among each other. 
+I looked at feature importances and it showed that the Size of the app was the main factor. Which it made sense because depending on the devices, memory space is usually not available equally among each other. 
 
 
 
