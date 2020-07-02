@@ -7,7 +7,7 @@ layout: null
 /* --- General --- */
 
 body {
-  font-family: 'Dosis', 'Arimo', serif;
+  font-family: 'Dosis', sans-serif;
   font-size: 18px;
   color: #404040;
   position: relative;
