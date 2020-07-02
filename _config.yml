@@ -14,7 +14,7 @@ description: Portfolio of Skills
 #url: "https://example.com"
 
 # baseurl should be an empty string
-baseurl: "/jekyll-theme-massively/"
+#baseurl: "/jekyll-theme-massively/"
 
 # --- Navigation bar options --- #
 
