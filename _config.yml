@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Portfolio
+title: Data Science
 
 # Short description of your site
-description: A unsupervised Data Science student trying to not be lost in Python.
+description: Portfolio of Skills
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -14,7 +14,7 @@ description: A unsupervised Data Science student trying to not be lost in Python
 #url: "https://example.com"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: "/jekyll-theme-massively/"
 
 # --- Navigation bar options --- #
 
@@ -32,7 +32,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: /path/to/image
 
 # --- Background colour/image options --- #
 
