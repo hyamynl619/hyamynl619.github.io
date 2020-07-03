@@ -1,9 +1,12 @@
+
 ---
 layout: page
 title: Skills
 subtitle: Technology Skills Used
 ---
-##Languages:
+
+# Languages:
+
 Python
 HTML
 CSS
@@ -11,7 +14,8 @@ JavaScript
 JQuery
 BootStrap
 
-##Stacks:
+# Stacks:
+
 Pandas
 Numpy
 Scikit-Learn
